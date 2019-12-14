@@ -5,7 +5,7 @@ NavPaSS for Encrypt or Decrypt password Navicat 11/12
 - PHP >= 7.0
 - ...
 
-## Source
+## Main source
 - [tianhe1986/FatSmallTools](https://github.com/tianhe1986/FatSmallTools "FatSmallTools")
 
 ## Screenshot
