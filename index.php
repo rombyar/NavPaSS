@@ -1,5 +1,11 @@
 <?php
 
+  /**
+  * @author Ahmad Romadhon
+  * @website romadhonbyar.github.io
+  * @decs Berfungsi untuk melakukan Encrypt dan Decrypt Password Navicat 11/12
+  * @date 14 Des 2019
+  */
   require_once 'fatsmalltools/src/NavicatPassword.php';
   use FatSmallTools\NavicatPassword;
 ?>
